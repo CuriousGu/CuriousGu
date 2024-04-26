@@ -25,7 +25,7 @@
   <a href="mailto:gustavo_ortega@usp.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=red&color=white" alt="Email"/>
   </a>
-  <a href="YOUR_DISCORD_LINK_HERE" target="_blank">
+  <a href="_ovataug" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord"/>
   </a>
 </p>
@@ -35,7 +35,6 @@
 <br/>
 
 ## Use To Code
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
@@ -52,20 +51,24 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-<br/>
 
 <br/>
 
 ## My GitHub
-<p align="left">
-  
-  <a href="https://github.com/CuriousGu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousGu&theme=horizon&border=black" alt="My GitHub streak"/>
-  </a>
-  
-  <a href="https://github.com/CuriousGu">
-    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=CuriousGu&show_icons=true&bg_color=1C1E26&border_color=000000&icon_color=59E1E3&text_color=23BD87&title_color=E95678" 
-      height="192px" width="49.5%"/>
-  </a>
-  
-</p
+<p>
+    <a href="https://github.com/CuriousGu">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousGu&theme=horizon&border=black" alt="My GitHub streak"/>
+    </a>  
+    <a href="https://github.com/CuriousGu">
+      <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=CuriousGu&show_icons=true&bg_color=1C1E26&border_color=000000&icon_color=59E1E3&text_color=23BD87&title_color=E95678" 
+        height="192px" width="50%"/>
+    </a>
+</p>
+
+<br/>
+
+## Languages & 
+
+<a href="https://github.com/CuriousGu"><img alt="My Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CuriousGu&layout=compact&langs_count=8&hide=jupyter%20notebook&border_color=000000&bg_color=1C1E26&title_color=E95678&icon_color=59E1E3&text_color=23BD87" height="200px" width="100%"/></a>
+
+
