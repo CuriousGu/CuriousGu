@@ -66,9 +66,27 @@
 </p>
 
 <br/>
-
-## Languages & 
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/CuriousGu" style="display: flex; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousGu&theme=horizon&border=black" width="42%" alt="My GitHub streak"/>
+  </a>  
+  <a href="https://github.com/CuriousGu" style="display: flex; align-items: center;">
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=CuriousGu&show_icons=true&bg_color=1C1E26&border_color=000000&icon_color=59E1E3&text_color=23BD87&title_color=E95678" 
+      height="192px" width="40%"/>
+  </a>
+</div>
+## Languages
 
 <a href="https://github.com/CuriousGu"><img alt="My Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CuriousGu&layout=compact&langs_count=8&hide=jupyter%20notebook&border_color=000000&bg_color=1C1E26&title_color=E95678&icon_color=59E1E3&text_color=23BD87" height="200px" width="100%"/></a>
 
+</br>
 
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/CuriousGu" style="display: flex; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousGu&theme=horizon&border=black" width="42%" alt="My GitHub streak"/>
+  </a>  
+  <a href="https://github.com/CuriousGu" style="display: flex; align-items: center;">
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=CuriousGu&show_icons=true&bg_color=1C1E26&border_color=000000&icon_color=59E1E3&text_color=23BD87&title_color=E95678" 
+      height="192px" width="40%"/>
+  </a>
+</div>
