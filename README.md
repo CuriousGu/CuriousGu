@@ -59,7 +59,7 @@
   <tr>
     <td style="vertical-align: top; width: 50%;">
       <a href="https://github.com/CuriousGu">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousGu&theme=horizon&border=black&locale=pt_BR" width="100%" alt="My GitHub streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuriousGu&theme=horizon&border=black" width="100%" alt="My GitHub streak"/>
       </a>  
     </td>
     <td style="vertical-align: top; width: 50%;">
