@@ -25,9 +25,6 @@
   <a href="mailto:gustavo_ortega@usp.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=red&color=white" alt="Email"/>
   </a>
-  <a href="_ovataug" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord"/>
-  </a>
 </p>
 
 <br/>
