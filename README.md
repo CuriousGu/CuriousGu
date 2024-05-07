@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; It's me, Gustavo
+        <samp>&gt; It's me, Gustavo!
         </samp>
 </h3>
 
