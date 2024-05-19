@@ -72,3 +72,7 @@
 ## Languages
 
 <a href="https://github.com/CuriousGu"><img alt="My Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CuriousGu&exclude=CaseRecommender,mac0115&layout=compact&langs_count=8&hide=jupyter%20notebook&border_color=000000&bg_color=1C1E26&title_color=E95678&icon_color=59E1E3&text_color=23BD87" height="200px" width="100%"/></a>
+
+## Colaborations
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
+
