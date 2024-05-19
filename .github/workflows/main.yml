@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - uses: Platane/snk@v2
-        id: bylickilabs-Snake
+        id: CuriousGu-Snake
         with:
           github_user_name: CuriousGu
           outputs: |
