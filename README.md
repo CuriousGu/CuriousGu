@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=CuriousGu">
   <img align="right" src="https://komarev.com/ghpvc/?username=CuriousGu&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -72,3 +72,8 @@
 ## Languages
 
 <a href="https://github.com/CuriousGu"><img alt="My Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=CuriousGu&exclude=CaseRecommender,mac0115&layout=compact&langs_count=8&hide=jupyter%20notebook&border_color=000000&bg_color=1C1E26&title_color=E95678&icon_color=59E1E3&text_color=23BD87" height="200px" width="100%"/></a>
+
+## Activity
+<a>
+  <img align="right" src="https://raw.githubusercontent.com/CuriousGu/CuriousGu/output/github-contribution-grid-snake-dark.svg"/>
+</a>
