@@ -48,7 +48,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF813F?style=for-the-badge&logo=databricks&logoColor=white)
-
+![Numpy](https://img.shields.io/badge/Numpy-0078D4?style=for-the-badge&logo=numpy&logoColor=F0DB4F)
 <br/>
 
 ## My GitHub
