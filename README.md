@@ -12,7 +12,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 a Brazilian Data Scientist 」
+    「 a Data Enthusiast 」
     <br>
     <br>
   </samp>
