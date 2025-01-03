@@ -51,6 +51,8 @@
 ![Numpy](https://img.shields.io/badge/Numpy-0078D4?style=for-the-badge&logo=numpy&logoColor=F0DB4F)
 ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge&logo=LangChain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge&logo=langgraph&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 <br/>
