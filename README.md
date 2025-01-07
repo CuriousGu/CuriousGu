@@ -18,15 +18,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavomendoncaortega" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gustavo_ortega@usp.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=red&color=white" alt="Email"/>
-  </a>
-</p>
-
 <br/>
 
 <br/>
