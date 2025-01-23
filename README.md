@@ -75,7 +75,3 @@
        height="200px" width="100%"/>
 </a>
 
-## Activity
-<a>
-  <img align="right" src="https://raw.githubusercontent.com/CuriousGu/CuriousGu/output/github-contribution-grid-snake-dark.svg"/>
-</a>
